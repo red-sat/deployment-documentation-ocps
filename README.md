@@ -730,8 +730,7 @@ If we can do this, it means the entire chain is working: the browser is talking 
 
 ---
 
-# Phase 3 : 
-## ** Building the Backend CI/CD Pipeline**
+## Phase 3 : Building the Backend CI/CD Pipeline
 
 This will automate the manual `docker build` and `docker push` steps we  did earlier.
 
