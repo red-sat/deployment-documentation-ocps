@@ -3,7 +3,7 @@ This documentation follows the exact advice of:
 -	Mahmoud Zridi (Frontend Developer)
 
 Which is: 
--	For an end-to-end project, it’s great to use Azure DevOps platform. Where we can use **Azure Boards** (Sprints, backlogs, Delivery Plans, etc.), **Azure Repos** (for code orchestration), Azure Pipelines (for CI/CD pipelines by configuring YAML files in the code repository).
+-	For an end-to-end project, it’s great to use Azure DevOps platform. Where we can use **Azure Boards** (Sprints, backlogs, Delivery Plans, etc.), **Azure Repos** (for code orchestration), **Azure Pipelines** (for CI/CD pipelines by configuring YAML files in the code repository), etc.
 -	We should deploy Azure services (PaaS, aka: Platform as a Service) for every component (Frontend, Backend, Database, file storage, etc.) of the application instead of managing a Virtual Machine (VM or IaaS, aka: Infrastructure as a Service), this latter is considered (in most cases) expensive and demanding in terms of managing infrastructure! 
 
 ## Plan of the deployment strategy in azure
