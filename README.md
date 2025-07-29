@@ -233,9 +233,9 @@ The code is now securely stored and versioned in Azure Repos, let’s dive into 
 
 ---
 
-# **Phase 2: Provisioning Azure Infrastructure**
+## **Phase 2: Provisioning Azure Infrastructure**
 
-## **Step 1: Creating the Production Database in Azure**
+### **Step 1: Creating the Production Database in Azure**
 
 Let's start with the most critical piece: the database. Here is the
 guide to creating the **Azure Database for PostgreSQL** instance using the Azure Portal.
